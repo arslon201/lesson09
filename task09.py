@@ -7,4 +7,4 @@ if a == b == c:
 elif a == b or b == c or a == c:
     print("teng yonli")
 else:
-    print("turli yonli")
+    print("turli yonli") 
